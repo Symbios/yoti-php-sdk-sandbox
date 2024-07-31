@@ -26,7 +26,7 @@
           "url": "https://github.com/Symbios/yoti-php-sdk.git",
           "type": "git"
       }
-  },
+  ],
   "autoload": {
     "psr-4": {
       "Yoti\\Sandbox\\": "src"
